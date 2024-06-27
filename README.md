@@ -1,6 +1,6 @@
 <div>
-  <img alt="CodeQL Analysis" src="https://github.com/ezralazuardy/profile/actions/workflows/github-code-scanning/codeql/badge.svg" />
-  <img alt="Vercel" src="https://deploy-badge.vercel.app?url=https://you-api-message.koyeb.app&name=koyeb" />
+  <img alt="CodeQL Analysis" src="https://github.com/ezralazuardy/you-api-message/actions/workflows/github-code-scanning/codeql/badge.svg" />
+  <img alt="Koyeb" src="https://deploy-badge.vercel.app?url=https://you-api-message.koyeb.app&name=koyeb" />
 </div>
 
 ## ✉️ you-api-message
