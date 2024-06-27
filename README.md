@@ -7,9 +7,9 @@
 
 🔗 https://you-api-message.koyeb.app
 
-This is a sample of RabbitMQ Consumer for You App RESTful API.
+This is a sample of RabbitMQ Consumer for You App RESTful API Messaging Features.
 
-This instance is used for synchronizing the queued Message to MongoDB Database, so that the list of message data can be retrieved later.
+This instance is used for synchronizing the queued Message into MongoDB Database, so that the list of message data can be retrieved later.
 
 ![Untitled](https://github.com/ezralazuardy/you-api-message/assets/24422019/83e9321a-7073-40b4-bd82-ac4d8dab40da)
 
