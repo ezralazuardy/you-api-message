@@ -33,19 +33,5 @@ async function bootstrap() {
 
   // start the app
   await app.listen(8000, '0.0.0.0');
-
-  // const app = await NestFactory.createMicroservice<MicroserviceOptions>(
-  //   AppModule,
-  //   {
-  //     transport: Transport.RMQ,
-  //     options: {
-  //       urls: [process.env.RABBITMQ_URL],
-  //       queue: 'messages-queue',
-  //       queueOptions: {
-  //         durable: false,
-  //       },
-  //     },
-  //   },
-  // );
 }
 bootstrap();
