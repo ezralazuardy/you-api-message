@@ -1,4 +1,5 @@
 <div>
+  <img alt="Build" src="https://github.com/ezralazuardy/you-api-message/actions/workflows/docker-image.yml/badge.svg" />
   <img alt="CodeQL Analysis" src="https://github.com/ezralazuardy/you-api-message/actions/workflows/github-code-scanning/codeql/badge.svg" />
   <img alt="Koyeb" src="https://deploy-badge.vercel.app?url=https://you-api-message.koyeb.app&name=koyeb" />
 </div>
@@ -13,7 +14,7 @@ This instance is used for synchronizing the queued Message into MongoDB Database
 
 ![Untitled](https://github.com/ezralazuardy/you-api-message/assets/24422019/83e9321a-7073-40b4-bd82-ac4d8dab40da)
 
-> Written in [Typescript](https://www.typescriptlang.org) using [Nest](https://nestjs.com). Powered by [Koyeb](https://koyeb.com).
+> Written in [Typescript](https://www.typescriptlang.org) using [Nest](https://nestjs.com). Powered by [Docker](https://docker.com) and [Koyeb](https://koyeb.com).
 
 > #### Disclaimer
 >
