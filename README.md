@@ -6,7 +6,11 @@
 
 ## ✉️ you-api-message
 
-🔗 https://you-api-message.koyeb.app
+**🔗 Endpoint:** https://you-api-message.koyeb.app
+
+**📘 Documentation:** [Postman](https://www.postman.com/speeding-shadow-723699/workspace/you-api)
+
+**📕 Technical Documentation:** [Notion](https://sky-cicada-919.notion.site/Technical-Documentation-You-App-RESTful-API-483f67d0d6994c50ae8210b8804df8e5)
 
 This is a sample of RabbitMQ Consumer for You App RESTful API Messaging Features.
 
